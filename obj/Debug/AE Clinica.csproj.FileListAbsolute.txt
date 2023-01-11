@@ -1,0 +1,71 @@
+D:\Mostafa\Cloud Storage\Google Drive - Mostafa.Hatim@gmail.com\دروس ودورات خاصّة\{تقارير}\AE Clinica\AE Clinica\obj\Debug\AE Clinica.csproj.AssemblyReference.cache
+D:\Mostafa\Cloud Storage\Google Drive - Mostafa.Hatim@gmail.com\دروس ودورات خاصّة\{تقارير}\AE Clinica\AE Clinica\obj\Debug\AE Clinica.csproj.SuggestedBindingRedirects.cache
+D:\Mostafa\Cloud Storage\Google Drive - Mostafa.Hatim@gmail.com\دروس ودورات خاصّة\{تقارير}\AE Clinica\AE Clinica\obj\Debug\AE_Clinica.Properties.Resources.resources
+D:\Mostafa\Cloud Storage\Google Drive - Mostafa.Hatim@gmail.com\دروس ودورات خاصّة\{تقارير}\AE Clinica\AE Clinica\obj\Debug\AE Clinica.csproj.GenerateResource.cache
+D:\Mostafa\Cloud Storage\Google Drive - Mostafa.Hatim@gmail.com\دروس ودورات خاصّة\{تقارير}\AE Clinica\AE Clinica\obj\Debug\AE Clinica.csproj.CoreCompileInputs.cache
+D:\Mostafa\Cloud Storage\Google Drive - Mostafa.Hatim@gmail.com\دروس ودورات خاصّة\{تقارير}\AE Clinica\AE Clinica\bin\Debug\AE Clinica.exe.config
+D:\Mostafa\Cloud Storage\Google Drive - Mostafa.Hatim@gmail.com\دروس ودورات خاصّة\{تقارير}\AE Clinica\AE Clinica\bin\Debug\AE Clinica.exe
+D:\Mostafa\Cloud Storage\Google Drive - Mostafa.Hatim@gmail.com\دروس ودورات خاصّة\{تقارير}\AE Clinica\AE Clinica\bin\Debug\AE Clinica.pdb
+D:\Mostafa\Cloud Storage\Google Drive - Mostafa.Hatim@gmail.com\دروس ودورات خاصّة\{تقارير}\AE Clinica\AE Clinica\obj\Debug\AE Clinica.exe
+D:\Mostafa\Cloud Storage\Google Drive - Mostafa.Hatim@gmail.com\دروس ودورات خاصّة\{تقارير}\AE Clinica\AE Clinica\obj\Debug\AE Clinica.pdb
+D:\AE Clinica\AE Clinica\bin\Debug\AE Clinica.exe.config
+D:\AE Clinica\AE Clinica\bin\Debug\AE Clinica.exe
+D:\AE Clinica\AE Clinica\bin\Debug\AE Clinica.pdb
+D:\AE Clinica\AE Clinica\obj\Debug\AE Clinica.csproj.AssemblyReference.cache
+D:\AE Clinica\AE Clinica\obj\Debug\AE_Clinica.FormDoctorDetails.resources
+D:\AE Clinica\AE Clinica\obj\Debug\AE_Clinica.FormLogin.resources
+D:\AE Clinica\AE Clinica\obj\Debug\AE_Clinica.Properties.Resources.resources
+D:\AE Clinica\AE Clinica\obj\Debug\AE Clinica.csproj.GenerateResource.cache
+D:\AE Clinica\AE Clinica\obj\Debug\AE Clinica.csproj.CoreCompileInputs.cache
+D:\AE Clinica\AE Clinica\obj\Debug\AE Clinica.exe
+D:\AE Clinica\AE Clinica\obj\Debug\AE Clinica.pdb
+E:\AE Clinica\AE Clinica\bin\Debug\AE Clinica.exe.config
+E:\AE Clinica\AE Clinica\bin\Debug\AE Clinica.exe
+E:\AE Clinica\AE Clinica\bin\Debug\AE Clinica.pdb
+E:\AE Clinica\AE Clinica\obj\Debug\AE Clinica.csproj.AssemblyReference.cache
+E:\AE Clinica\AE Clinica\obj\Debug\AE_Clinica.FormDoctorDetails.resources
+E:\AE Clinica\AE Clinica\obj\Debug\AE_Clinica.FormLogin.resources
+E:\AE Clinica\AE Clinica\obj\Debug\AE_Clinica.Properties.Resources.resources
+E:\AE Clinica\AE Clinica\obj\Debug\AE Clinica.csproj.GenerateResource.cache
+E:\AE Clinica\AE Clinica\obj\Debug\AE Clinica.csproj.CoreCompileInputs.cache
+E:\AE Clinica\AE Clinica\obj\Debug\AE Clinica.exe
+E:\AE Clinica\AE Clinica\obj\Debug\AE Clinica.pdb
+E:\AE Clinica\AE Clinica\bin\Debug\Database.mdb
+D:\AE Clinica\AE Clinica\bin\Debug\Database.mdb
+D:\AE Clinica\AE Clinica\obj\Debug\AE_Clinica.MainPage.resources
+D:\AE Clinica\AE Clinica\obj\Debug\AE_Clinica.FormDoctorUpdate.resources
+D:\AE Clinica\AE Clinica\obj\Debug\AE_Clinica.FormBMI.resources
+D:\AE Clinica\AE Clinica\obj\Debug\AE_Clinica.FormPatientsDetails.resources
+D:\AE Clinica\AE Clinica\obj\Debug\AE_Clinica.FormPatientAdd.resources
+D:\AE Clinica\AE Clinica\obj\Debug\AE_Clinica.FormReports.resources
+E:\AE Clinica\AE Clinica\obj\Debug\AE_Clinica.FormBMI.resources
+E:\AE Clinica\AE Clinica\obj\Debug\AE_Clinica.FormDoctorUpdate.resources
+E:\AE Clinica\AE Clinica\obj\Debug\AE_Clinica.FormPatientAdd.resources
+E:\AE Clinica\AE Clinica\obj\Debug\AE_Clinica.FormPatientsDetails.resources
+E:\AE Clinica\AE Clinica\obj\Debug\AE_Clinica.FormReports.resources
+E:\AE Clinica\AE Clinica\obj\Debug\AE_Clinica.MainPage.resources
+D:\AE Clinica\AE Clinica\obj\Debug\AE_Clinica.FormRoom.resources
+D:\AE Clinica\AE Clinica\obj\Debug\AE_Clinica.FormReportAdd.resources
+E:\AE Clinica\AE Clinica\obj\Debug\AE_Clinica.FormReportAdd.resources
+E:\AE Clinica\AE Clinica\obj\Debug\AE_Clinica.FormRoom.resources
+E:\AE Clinica\AE Clinica\obj\Debug\AE Clinica.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\OneDrive\Desktop\Project\AE Clinica-2022.06.20\AE Clinica\bin\Debug\Database.mdb
+C:\Users\pc\OneDrive\Desktop\Project\AE Clinica-2022.06.20\AE Clinica\bin\Debug\AE Clinica.exe.config
+C:\Users\pc\OneDrive\Desktop\Project\AE Clinica-2022.06.20\AE Clinica\bin\Debug\AE Clinica.exe
+C:\Users\pc\OneDrive\Desktop\Project\AE Clinica-2022.06.20\AE Clinica\bin\Debug\AE Clinica.pdb
+C:\Users\pc\OneDrive\Desktop\Project\AE Clinica-2022.06.20\AE Clinica\obj\Debug\AE Clinica.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Desktop\Project\AE Clinica-2022.06.20\AE Clinica\obj\Debug\AE_Clinica.FormBMI.resources
+C:\Users\pc\OneDrive\Desktop\Project\AE Clinica-2022.06.20\AE Clinica\obj\Debug\AE_Clinica.FormDoctorDetails.resources
+C:\Users\pc\OneDrive\Desktop\Project\AE Clinica-2022.06.20\AE Clinica\obj\Debug\AE_Clinica.FormDoctorUpdate.resources
+C:\Users\pc\OneDrive\Desktop\Project\AE Clinica-2022.06.20\AE Clinica\obj\Debug\AE_Clinica.FormLogin.resources
+C:\Users\pc\OneDrive\Desktop\Project\AE Clinica-2022.06.20\AE Clinica\obj\Debug\AE_Clinica.FormPatientAdd.resources
+C:\Users\pc\OneDrive\Desktop\Project\AE Clinica-2022.06.20\AE Clinica\obj\Debug\AE_Clinica.FormPatientsDetails.resources
+C:\Users\pc\OneDrive\Desktop\Project\AE Clinica-2022.06.20\AE Clinica\obj\Debug\AE_Clinica.FormReportAdd.resources
+C:\Users\pc\OneDrive\Desktop\Project\AE Clinica-2022.06.20\AE Clinica\obj\Debug\AE_Clinica.FormReports.resources
+C:\Users\pc\OneDrive\Desktop\Project\AE Clinica-2022.06.20\AE Clinica\obj\Debug\AE_Clinica.FormRoom.resources
+C:\Users\pc\OneDrive\Desktop\Project\AE Clinica-2022.06.20\AE Clinica\obj\Debug\AE_Clinica.MainPage.resources
+C:\Users\pc\OneDrive\Desktop\Project\AE Clinica-2022.06.20\AE Clinica\obj\Debug\AE_Clinica.Properties.Resources.resources
+C:\Users\pc\OneDrive\Desktop\Project\AE Clinica-2022.06.20\AE Clinica\obj\Debug\AE Clinica.csproj.GenerateResource.cache
+C:\Users\pc\OneDrive\Desktop\Project\AE Clinica-2022.06.20\AE Clinica\obj\Debug\AE Clinica.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Desktop\Project\AE Clinica-2022.06.20\AE Clinica\obj\Debug\AE Clinica.exe
+C:\Users\pc\OneDrive\Desktop\Project\AE Clinica-2022.06.20\AE Clinica\obj\Debug\AE Clinica.pdb

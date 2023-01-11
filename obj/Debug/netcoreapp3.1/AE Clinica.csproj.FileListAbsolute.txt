@@ -1,0 +1,18 @@
+D:\AE Clinica\AE Clinica\bin\Debug\netcoreapp3.1\AE Clinica.exe
+D:\AE Clinica\AE Clinica\bin\Debug\netcoreapp3.1\AE Clinica.deps.json
+D:\AE Clinica\AE Clinica\bin\Debug\netcoreapp3.1\AE Clinica.runtimeconfig.json
+D:\AE Clinica\AE Clinica\bin\Debug\netcoreapp3.1\AE Clinica.runtimeconfig.dev.json
+D:\AE Clinica\AE Clinica\bin\Debug\netcoreapp3.1\AE Clinica.dll
+D:\AE Clinica\AE Clinica\bin\Debug\netcoreapp3.1\AE Clinica.pdb
+D:\AE Clinica\AE Clinica\obj\Debug\netcoreapp3.1\AE Clinica.csproj.AssemblyReference.cache
+D:\AE Clinica\AE Clinica\obj\Debug\netcoreapp3.1\AE_Clinica.FormBMI.resources
+D:\AE Clinica\AE Clinica\obj\Debug\netcoreapp3.1\AE_Clinica.MainPage.resources
+D:\AE Clinica\AE Clinica\obj\Debug\netcoreapp3.1\AE Clinica.csproj.GenerateResource.cache
+D:\AE Clinica\AE Clinica\obj\Debug\netcoreapp3.1\AE Clinica.GeneratedMSBuildEditorConfig.editorconfig
+D:\AE Clinica\AE Clinica\obj\Debug\netcoreapp3.1\AE Clinica.AssemblyInfoInputs.cache
+D:\AE Clinica\AE Clinica\obj\Debug\netcoreapp3.1\AE Clinica.AssemblyInfo.cs
+D:\AE Clinica\AE Clinica\obj\Debug\netcoreapp3.1\AE Clinica.csproj.CoreCompileInputs.cache
+D:\AE Clinica\AE Clinica\obj\Debug\netcoreapp3.1\AE Clinica.dll
+D:\AE Clinica\AE Clinica\obj\Debug\netcoreapp3.1\AE Clinica.pdb
+D:\AE Clinica\AE Clinica\obj\Debug\netcoreapp3.1\AE Clinica.genruntimeconfig.cache
+D:\AE Clinica\AE Clinica\obj\Debug\netcoreapp3.1\AE_Clinica.FormLogin.resources
